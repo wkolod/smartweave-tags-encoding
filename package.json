@@ -1,0 +1,21 @@
+{
+  "name": "smartweave-tags-encoding",
+  "version": "1.0.0",
+  "description": "reading tags within the contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose false --collectCoverage=false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arweave": "^1.10.23",
+    "axios": "^0.25.0",
+    "redstone-smartweave": "^0.4.15"
+  },
+  "devDependencies": {
+    "arlocal": "^1.1.13",
+    "jest": "^27.3.1"
+  }
+}
